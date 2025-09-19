@@ -9,3 +9,7 @@ Answer: The Medical Field: data science can be used to find results in drug tria
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging combines two branches into one. Rebasing applies a series of commits on top of a difference branch.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning how to better use pandas and git.
