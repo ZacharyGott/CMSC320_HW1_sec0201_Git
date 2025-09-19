@@ -5,3 +5,7 @@ Answer: Git makes managing versions and dealing with multiple contributors much 
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: The Medical Field: data science can be used to find results in drug trials for example.
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging combines two branches into one. Rebasing applies a series of commits on top of a difference branch.
